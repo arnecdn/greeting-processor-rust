@@ -15,7 +15,7 @@ chrono = { version = "0.4", features = ["serde"] }
 rdkafka = { version = "0.36.2", features = ["cmake-build"] }
 sqlx = { version = "0.8", features = [ "runtime-tokio" , "sqlite", "chrono", "postgres","macros", "uuid"] }
 tokio = { version = "1.39.2", features = ["rt", "rt-multi-thread", "macros"] }
-tokio-macros= { version = "0.2.0-alpha.6" }
+tokio-macros= { version = "2.4.0" }
 futures-util = "0.3.30"
 rand = "0.9.0-alpha.1"
 derive_more = "0.99.18"
