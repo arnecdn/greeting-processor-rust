@@ -20,7 +20,7 @@ futures-util = "0.3.30"
 rand = "0.9.0-alpha.1"
 derive_more = { version = "1.0.0", features = ["full"] }
 log = "0.4.21"
-env_logger = "0.11.3"
+env_logger = "0.11.5"
 async-trait = "0.1.81"
 uuid = { version = "1.3.1", features = ["v7"]}
 
